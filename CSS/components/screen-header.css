@@ -23,3 +23,14 @@
   left: 68px;
   bottom: 20px;
 }
+.screen-header__dot {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 2.5px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  left: 115px;
+  bottom: 22px;
+}

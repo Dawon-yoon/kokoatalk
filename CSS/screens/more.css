@@ -1,0 +1,10 @@
+.main-screen-more {
+  display: flex;
+  position: relative;
+}
+.user-component__column-more {
+  display: flex;
+  position: absolute;
+  right: 30px;
+  top: 17px;
+}
